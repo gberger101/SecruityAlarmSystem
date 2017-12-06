@@ -1,0 +1,4 @@
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\SecuritConsoleAtHomes\bin\Debug\SecuritConsoleAtHomes.dll
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\SecuritConsoleAtHomes\bin\Debug\SecuritConsoleAtHomes.pdb
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\SecuritConsoleAtHomes\obj\Debug\SecuritConsoleAtHomes.dll
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\SecuritConsoleAtHomes\obj\Debug\SecuritConsoleAtHomes.pdb

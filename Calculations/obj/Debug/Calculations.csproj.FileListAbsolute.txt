@@ -1,0 +1,7 @@
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\Calculations\bin\Debug\Calculations.dll
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\Calculations\bin\Debug\Calculations.pdb
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\Calculations\obj\Debug\Calculations.dll
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\Calculations\obj\Debug\Calculations.pdb
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\Calculations\bin\Debug\Models.dll
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\Calculations\bin\Debug\Models.pdb
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\Calculations\obj\Debug\Calculations.csprojResolveAssemblyReference.cache

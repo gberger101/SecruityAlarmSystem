@@ -1,0 +1,5 @@
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\DataAccessCore\bin\Debug\DataAccessCore.dll
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\DataAccessCore\bin\Debug\DataAccessCore.pdb
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\DataAccessCore\obj\Debug\DataAccessCore.dll
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\DataAccessCore\obj\Debug\DataAccessCore.pdb
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\DataAccessCore\obj\Debug\DataAccessCore.csprojResolveAssemblyReference.cache

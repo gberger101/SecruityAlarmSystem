@@ -1,0 +1,6 @@
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\SecruityAlarmSystem\bin\Debug\SecruityAlarmSystem.exe.config
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\SecruityAlarmSystem\bin\Debug\SecruityAlarmSystem.exe
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\SecruityAlarmSystem\bin\Debug\SecruityAlarmSystem.pdb
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\SecruityAlarmSystem\obj\Debug\SecruityAlarmSystem.exe
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\SecruityAlarmSystem\obj\Debug\SecruityAlarmSystem.pdb
+C:\tempGD\Personal\ProgrammingMine\FFC\FF_SecruityAlarmSystem\SecruityAlarmSystem\SecruityAlarmSystem\obj\Debug\SecruityAlarmSystem.csprojResolveAssemblyReference.cache
